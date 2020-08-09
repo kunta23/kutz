@@ -288,4 +288,13 @@
 
 	});		
 
+	
+
 })(jQuery);
+
+// download() {
+// 	let link = document.createElement("a");
+// 	   link.download = "";
+// 	   link.href = "/";
+// 	   link.click();
+// 	 }
